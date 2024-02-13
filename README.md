@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jacob Philipo Tibaijuka 
-- 👀 I’m interested in programming (web development and android application development)
-- 🌱 I’m currently learning Android application development
+- 👀 I’m developer (web developer & android application developer)
 - 💞️ I’m looking to collaborate on web and android projecy
 - 📫 How to reach me WhatsApp number +255746335453
 
